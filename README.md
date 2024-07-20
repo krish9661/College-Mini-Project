@@ -1,4 +1,5 @@
-# College-Mini-Project
+# Mini-Project
 This in my project of a Recipe Book.
 
-Where we can see the dishes specialities and favorites things.
+Where you can navigate to special dishes and favorites.
+(Under Process)
