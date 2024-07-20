@@ -1,0 +1,97 @@
+/* Text colours */
+.text-primary {
+   color: #ffff99;
+}
+
+.text-secondary {
+   color: #0284d0;
+}
+
+/* Button */
+.btn {
+   cursor: pointer;
+   display :flow-root;
+   text-align: center;
+   margin: 20px;
+   /* padding: 10px 10px; */
+   color: white;
+   background-color: black;
+   border: none;
+   border-radius: 100px;
+
+}
+
+.btn:hover {
+   opacity: 0.9;
+}
+
+.btn-primary {
+   background-color: #ffff99;
+   color: white
+}
+
+.btn-secondary {
+   background-color: #0284d0;
+   color: white
+}
+
+/* Bg */
+.bg-primary {
+   background-color: #ffff99;
+   color: white
+}
+
+.bg-dark {
+   background-color: #333;
+   color: white
+}
+
+.bg-light {
+   background-color: #c3c3c0;
+   color: #333
+}
+
+/* Flex items */
+.flex-items {
+   display: flex;
+   align-items:normal;
+   justify-content:center;
+   text-align: center;
+   height: 100%;
+   width: 100%;
+}
+
+.flex-items>div {
+   padding: 20px;
+}
+
+/* Section header */
+.section-header {
+   padding: 30px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+}
+
+.section-header h2 {
+   font-size: 40px;
+   margin: 20px 0;
+}
+
+.section-padding {
+   padding: 20px 20px 40px;
+}
+
+
+.time{
+   display: block;
+   padding: 10px;
+   background: #dfd90c;
+   border-radius: 50%;
+}
+.recipe{
+   text-align: left;
+
+}
