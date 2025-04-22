@@ -12,7 +12,7 @@ This is my UI Design for the website
 # Final Website Design
 
 Here, I try to show you how this website looks like
-![Screenshot 2024-06-21 130459 - Copy](https://github.com/user-attachments/assets/ac7efd17-a591-42fb-9cdc-ed9e8c9f31b0)
+![Screenshot 2025-04-22 211916](https://github.com/user-attachments/assets/4f2cf9e1-c1eb-4342-a079-ae64819c5069)
 ![Screenshot 2025-04-22 210608](https://github.com/user-attachments/assets/67f292ec-ae35-4802-a0d9-9fd56bc1efdf)
 
 # Tech used
